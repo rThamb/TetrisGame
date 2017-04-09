@@ -1,0 +1,405 @@
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.dll
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.pdb
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.dll
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.dll
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.dll
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.pdb
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.xml
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.xml
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.xml
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.dll
+C:\Users\Renuchan\Desktop\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.pdb
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.pdb
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.pdb
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.xml
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.xml
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.xml
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.csprojResolveAssemblyReference.cache
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.pdb
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.dll
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.pdb
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.dll
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.dll
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.dll
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.pdb
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.xml
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.xml
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.xml
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.dll
+C:\Users\Renuchan\Desktop\working on\TetrisGame\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.pdb
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.dll
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.pdb
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.dll
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.dll
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.dll
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.dll
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.dll
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.dll
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.dll
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.dll
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.dll
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.pdb
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.xml
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.xml
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.xml
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.xml
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.xml
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.xml
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.xml
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.xml
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.csprojResolveAssemblyReference.cache
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.dll
+I:\C# Assignment (Tetris)\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.pdb
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.pdb
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.pdb
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.xml
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.xml
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.xml
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.csprojResolveAssemblyReference.cache
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.dll
+C:\Users\1437641\Desktop\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.pdb
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.pdb
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.pdb
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.pdb
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.pdb
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.pdb
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisMoveRotateInShape\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.pdb
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.pdb
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.pdb
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.dll
+C:\Users\Renuchan\Desktop\TetrisWorkStation\TetrisGame\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.pdb
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.dll
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.pdb
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.dll
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.dll
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.dll
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.dll
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.pdb
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.xml
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.xml
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.xml
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.csprojResolveAssemblyReference.cache
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.dll
+C:\Users\1437641\Desktop\surasfsaf\TetrisGame\TetrisGame\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.pdb
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.dll
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.pdb
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.dll
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.dll
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.dll
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.dll
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.pdb
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.xml
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.xml
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.xml
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.csprojResolveAssemblyReference.cache
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.dll
+C:\Users\1437641\Desktop\Made draw static methods\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.pdb
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.dll
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.pdb
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.dll
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.dll
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.dll
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.dll
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.pdb
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.xml
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.xml
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.xml
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.csprojResolveAssemblyReference.cache
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.dll
+C:\Users\1437641\Desktop\TetrisStation\Made draw static methods\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.pdb
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.dll
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.pdb
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.dll
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.dll
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.dll
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.dll
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.dll
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.dll
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.dll
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.dll
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.dll
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.pdb
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.xml
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.xml
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.xml
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.xml
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.xml
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.xml
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.xml
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.xml
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.csprojResolveAssemblyReference.cache
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.dll
+I:\Mar-10-2016-LabWork\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.pdb
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.dll
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.pdb
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.dll
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.dll
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.dll
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.pdb
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.xml
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.xml
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.xml
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.dll
+C:\Users\Renuchan\Desktop\Mar-10-2016-LabWork(TetrisGame)\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.pdb
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.dll
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.pdb
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.dll
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.dll
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.dll
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.pdb
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.xml
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.xml
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.xml
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.dll
+C:\Users\Renuchan\Desktop\TetrisComplete 98%\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.pdb
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.dll
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.pdb
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.dll
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.dll
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.dll
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.dll
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.dll
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.dll
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.dll
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.dll
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.dll
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.pdb
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.xml
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.xml
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.xml
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.xml
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.xml
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.xml
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.xml
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.xml
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.csprojResolveAssemblyReference.cache
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.dll
+E:\TetrisComplete 98%\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.pdb
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.dll
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.pdb
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.dll
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.dll
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.dll
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.dll
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\TetrisGame.pdb
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.xml
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.xml
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.xml
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.csprojResolveAssemblyReference.cache
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.dll
+C:\Users\1440740\Desktop\TetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.pdb
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.pdb
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\TetrisGame.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\TetrisGame.pdb
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.xml
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.xml
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.xml
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.pdb
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\TetrisGameTest.pdb
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\TetrisGame.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\TetrisGame.pdb
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\MonoGame.Framework.xml
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.xml
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.XInput.xml
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\TetrisGameTest\obj\Debug\TetrisGameTest.pdb

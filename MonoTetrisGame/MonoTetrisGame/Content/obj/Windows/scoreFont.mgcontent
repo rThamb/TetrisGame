@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Renuchan/Documents/Developement/Semester 4/C#/MonoTetrisGame/MonoTetrisGame/Content/scoreFont.spritefont</SourceFile>
+  <SourceTime>2016-03-31T11:44:34-04:00</SourceTime>
+  <DestFile>C:/Users/Renuchan/Documents/Developement/Semester 4/C#/MonoTetrisGame/MonoTetrisGame/Content/bin/Windows/scoreFont.xnb</DestFile>
+  <DestTime>2016-04-05T19:04:31.9627331-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-04-29T13:14:44-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-04-29T13:14:44-04:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

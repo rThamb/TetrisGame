@@ -1,0 +1,303 @@
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe.config
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.pdb
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.dll
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.pdb
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.exe
+C:\Users\Renuchan\Desktop\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.pdb
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe.config
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.exe
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.pdb
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\EmptyBlock.xnb
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\FilledBlock.xnb
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.pdb
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.dll
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.pdb
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\1437641\Desktop\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe.config
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.exe
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.pdb
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\EmptyBlock.xnb
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\FilledBlock.xnb
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.pdb
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.dll
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.pdb
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Renuchan\Desktop\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.csprojResolveAssemblyReference.cache
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe.config
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.exe
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.pdb
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\EmptyBlock.xnb
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\FilledBlock.xnb
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.pdb
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.dll
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.dll
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.pdb
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.xml
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Dawson\secondYearCompSci\C#2\assignment\phase3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe.config
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.exe
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.pdb
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\EmptyBlock.xnb
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\FilledBlock.xnb
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.pdb
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.dll
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.pdb
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Renuchan\Desktop\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe.config
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.exe
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.pdb
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\EmptyBlock.xnb
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\FilledBlock.xnb
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.pdb
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.dll
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.pdb
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Dimitri\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\scoreFont.xnb
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe.config
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.exe
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.pdb
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\EmptyBlock.xnb
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\FilledBlock.xnb
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\scoreFont.xnb
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.pdb
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.dll
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.pdb
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\1437641\Desktop\Tetris_Phase_3\Tetris Phase 3\TetrisGameMono\TetrisGame(Mono)\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe.config
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.exe
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.pdb
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\EmptyBlock.xnb
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\FilledBlock.xnb
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\scoreFont.xnb
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.pdb
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.pdb
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Renuchan\Desktop\Tetris Final\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe.config
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.exe
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.pdb
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\EmptyBlock.xnb
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\FilledBlock.xnb
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\scoreFont.xnb
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.pdb
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.pdb
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Renuchan\Desktop\FINAL\Tetris Final\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe.config
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.exe
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.pdb
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\EmptyBlock.xnb
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\FilledBlock.xnb
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\Content\scoreFont.xnb
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.exe
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoTetrisGame.pdb
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.dll
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\TetrisGame.pdb
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Renuchan\Documents\Developement\Semester 4\C#\MonoTetrisGame\MonoTetrisGame\obj\x86\Debug\MonoTetrisGame.csprojResolveAssemblyReference.cache
